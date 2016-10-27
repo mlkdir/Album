@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="PostgreSQL - newdb@192.168.1.51" uuid="d3e9887a-c9d3-4455-ba25-dbda0b5424d9">
+      <secret-storage>master_key</secret-storage>
+      <user-name>dionis</user-name>
+      <schema-pattern>newdb.pg_catalog newdb.public</schema-pattern>
+      <default-schemas>newdb.pg_catalog newdb.public</default-schemas>
+    </data-source>
+  </component>
+</project>
